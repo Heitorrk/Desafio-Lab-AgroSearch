@@ -27,7 +27,8 @@
 - **Mateus Ieno Ramalho**
 - **Heitor de Oliveira Mamede**
 - **Júlio César Carvalho Santos**
-  **Auxílio:** Antigravity: (Gemini 3.8 Flash)
+ 
+- **Auxílio:** Antigravity: (Gemini 3.8 Flash)
 
 ---
 
