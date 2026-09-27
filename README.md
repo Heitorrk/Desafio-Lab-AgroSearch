@@ -117,7 +117,7 @@ Testes executados sobre a base técnica oficial recomendada pelo professor:
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/SEU_USUARIO/agrosearch.git
+git clone https://github.com/Heitorrk/agrosearch.git
 cd agrosearch
 ```
 
