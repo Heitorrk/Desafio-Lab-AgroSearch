@@ -18,8 +18,8 @@
 ## 🏛️ Contexto Acadêmico
 
 - **Instituição:** Centro Universitário de João Pessoa — **UNIPÊ**
-- **Curso:** Ciência da Computação / Engenharia de Software
-- **Disciplina:** Tópicos Avançados — Recuperação de Informação e PLN
+- **Curso:** Ciência da Computação
+- **Disciplina:** Tendências em Ciência da Computação
 - **Docente:** Prof. Me. Ricardo Roberto de Lima
 - **Atividade:** Laboratório Prático 04 — Desafio Integrador (AV1)
 
@@ -27,6 +27,7 @@
 - **Mateus Ieno Ramalho**
 - **Heitor de Oliveira Mamede**
 - **Júlio César Carvalho Santos**
+- **Auxílio:** Antigravity: (Gemini 3.8 Flash)
 
 ---
 
