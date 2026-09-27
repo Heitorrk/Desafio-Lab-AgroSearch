@@ -117,8 +117,8 @@ Testes executados sobre a base técnica oficial recomendada pelo professor:
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/Heitorrk/agrosearch.git
-cd agrosearch
+git clone https://github.com/Heitorrk/Desafio-Lab-AgroSearch.git
+cd Desafio-Lab-AgroSearch
 ```
 
 2. **Instale as dependências mínimas:**
